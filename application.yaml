@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://jerrybaijy.github.io/argocd-helm/
-    targetRevision: main
+    targetRevision: 0.1.0
     chart: argocd-helm-chart
     helm:
       valueFiles:
